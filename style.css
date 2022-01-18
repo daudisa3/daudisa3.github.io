@@ -1,0 +1,63 @@
+.special {
+    color: red;
+}
+
+.special2 {
+    background: black;
+}
+
+a {
+   color: black;
+}
+
+section a {
+    color: green;
+}
+
+.container {
+    color: orange;
+}
+
+ p {
+     font-size: 12px;
+ }
+
+ p {
+     font-size: 32px;
+ }
+
+ p {
+     font-size: 50px!important;
+ }
+
+nav a {
+ color: magenta;
+}
+
+
+div {
+    background: red;
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+}
+
+span {
+    background: greenyellow;
+    height: 50px;
+    width: 300px;
+    display: block;
+
+}
+
+
+.button {
+    background-color: green;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+  }
